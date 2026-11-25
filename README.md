@@ -1,10 +1,3 @@
-Bhai, maaf karna! Asal masla yeh tha ke andar jo chotey code blocks the (` ```bash `), unki wajah se markdown ka bara block toot raha tha. 
-
-Ab maine isko **4 backticks** ` ```` ` ke sath wrap kiya hai taake andar ke code blocks isko break na kar sakein. 
-
-Aap is poore box ke top-right corner par **"Copy"** daba dein aur seedha apni `README.md` file mein paste kar dein. Ek bhi line idhar udhar nahi hogi:
-
-````markdown
 <div align="center">
 
 # 🏥 Imunah - Online Vaccination Portal
